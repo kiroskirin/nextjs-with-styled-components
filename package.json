@@ -1,0 +1,15 @@
+{
+  "name": "nextjs-with-styled-components",
+  "version": "1.0.0",
+  "description": "NextJS with Styled Components",
+  "main": "index.js",
+  "repository": "git@github.com:kiroskirin/nextjs-with-styled-components.git",
+  "author": "kiroskirin",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^3.4.9"
+  }
+}
